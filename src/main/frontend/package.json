@@ -1,0 +1,21 @@
+{
+  "name": "apache-sling-starter-front-end",
+  "version": "1.0.0",
+  "description": "Scripts to power the front-end of Apache Sling's Starter.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat-css": "^3.0.0",
+    "gulp-header": "^1.8.9",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "Apache-2.0"
+}
